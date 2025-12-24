@@ -15,9 +15,7 @@
 <a href="https://komarev.com/ghpvc/?username=aliffirfan4523">
   <img align="right" src="https://komarev.com/ghpvc/?username=aliffirfan4523&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
-
-
-[![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc)
+<a href="https://wakatime.com/@4f652f38-af75-473d-bb14-6284cab9be2e"><img src="https://wakatime.com/badge/user/4f652f38-af75-473d-bb14-6284cab9be2e.svg" alt="Total time coded since Nov 13 2025" /></a>
 
 <!-- Intro  -->
 <h3 align="center">
